@@ -1,4 +1,4 @@
-# Connect Four Game
+# Connect Four
 
 A simple, two-player **Connect Four** game implemented in Python using the **Pygame** library. The game allows two players to take turns to drop their pieces (Red and Yellow) into a grid. The goal is to connect four of your pieces in a row, column, or diagonal.
 
