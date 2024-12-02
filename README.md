@@ -54,4 +54,4 @@ The game window will appear, allowing you to start playing immediately.
 ## Acknowledgements
 
 - **Pygame**: A set of Python modules designed for writing video games, which was used to create the graphical interface of the game.
-- This project was inspired by the classic Connect Four game.
+- This project is inspired by the classic Connect Four game.
